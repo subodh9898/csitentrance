@@ -1,0 +1,175 @@
+[
+    {
+        "1": "Government has a lot to ……………………… road accidents",
+"2": "He inherited a fortune and ……………. it in a year",
+"3": "His father blamed him but his mother …………… and said he had acted sensibly",
+"4": "Do you ………. me ………… a fool? ",
+"5": "The captain …………… , not realizing that the icebergs were so close. ",
+"6": "After a month’s treatment at a hospital my brother is ………………….. ",
+"7": "Squeamish (similar meaning",
+"8": "Bramble (similar meaning)",
+"9": "Congruous (similar meaning)  ",
+"10": "savior (opposite meaning",
+"11": "Scabrous (opposite meaning) ",
+"12": "un-availing (opposite meaning) ",
+"13": "He died …………… cancer but she died ………. a train accident ",
+"14": "Divide forty ………. Eight but divide the these apples ……….. the two children ",
+"15": "It is a lovely place to live …………… ",
+"16": "Divide forty ……. eight but divide these apples ……………. the two children",
+"17": "It is lovely place to live……………. ",
+"18": "He is angry …….. and indifferent …………me",
+"19": "You alone can relieve me ………………. This anxiety",
+"20": "He took the food play with your watch ……….. he breaks it. "
+       
+
+    },
+    {
+        "1" : {
+            "a": "answer back",
+            "b": "answer for",
+            "c": "answer to",
+            "d": "answer into"
+            },
+            "2" : {
+            "a": "ran into",
+            "b": "ran over",
+            "c": "ran through",
+            "d": "ran onto"
+            },
+            "3" : {
+            "a": "stand for",
+            "b": "stand up to",
+            "c": "stand out",
+            "d": "stand up for"
+            },
+            "4" : {
+            "a": "take, for",
+            "b": "take, in",
+            "c": "take, to",
+            "d": "take, after"
+            },
+            "5" : {
+            "a": "turn in",
+            "b": "turn on",
+            "c": "turn away",
+            "d": "turn down"
+            },
+            "6" : {
+            "a": "As good as",
+            "b": "as heavy as lead",
+            "c": "As gay as a lark",
+            "d": "as fit as fiddle"
+            },
+            "7" : {
+            "a": "Very dirty",
+            "b": "Gulible",
+            "c": "Easily Upset",
+            "d": "Braggat"
+            },
+            
+            "8" : {
+            "a": "wild cat",
+            "b": "wild bush with thorn",
+            "c": "tall plant",
+            "d": "wild animal"
+            },
+            "9" : {
+            "a": "Consistent",
+            "b": "Cover",
+            "c": "Irregular",
+            "d": "Clamorous"
+            },
+            "10" : {
+            "a": "Protector",
+            "b": "Destroyer",
+            "c": "nurturer",
+            "d": "Designer"
+            },
+            "11" : {
+            "a": "scaly",
+            "b": "scabby",
+            "c": "decent",
+            "d": "zigzag"
+            },
+            "12" : {
+            "a": "unavailable",
+            "b": "repast",
+            "c": "Successful",
+            "d": "rare"
+            },
+            "13" : {
+            "a": "out, at",
+            "b": "off, by",
+            "c": "for, in",
+            "d": "of, in"
+            },
+            "14" : {
+            "a": "for, among",
+            "b": "at, between",
+            "c": "in, among",
+            "d": "by, between"
+            },
+            "15" : {
+            "a": "in",
+            "b": "for",
+            "c": "at",
+            "d": "by"
+            },
+            "16" : {
+            "a": "for, among",
+            "b": "at, between ",
+            "c": "in, among",
+            "d": "by, between"
+            },
+            "17" : {
+            "a": "in ",
+            "b": "for",
+            "c": "at",
+            "d": "by"
+            },
+            
+            "18" : {
+            "a": "from, from",
+            "b": "by, by",
+            "c": "with, to",
+            "d": "during"
+            },
+            "19" : {
+            "a": "from",
+            "b": "of",
+            "c": "in",
+            "d": "during"
+            },
+            "20" : {
+            "a": "should",
+            "b": "in case",
+            "c": "least",
+            "d": "might"
+            }
+       
+    },
+    {
+        "1": "answer for",
+        "2": "ran through",
+        "3": "stand up for",
+        "4": "take, for",
+        "5": "turn away",
+        "6": "As gay as a lark",
+        "7": "Braggat",
+        "8": "wild bush with thorn",
+        "9": "Consistent",
+        "10": "Destroyer",
+        "11": "decent",
+        "12": "Successful",
+        "13": "of, in",
+        "14": "by, between",
+        "15": "in",
+        "16": "by",
+        "17": "in",
+        "18": "by, by",
+        "19": "in",
+        "20": "should"
+
+       
+    }
+]

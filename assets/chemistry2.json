@@ -1,0 +1,173 @@
+[
+    {
+        "1": " Vital Force Theory was given by ",
+        "2": "Who is known as Father of Chemistry?",
+        "3": "Which hybridization has highest percentage S-character? ",
+        "4": "Aromatic compounds mostly show ",
+        "5": "Long form of periodic table mainly based on",
+        "6": "The formula of white vitriol ",
+        "7": "Cupellation is a process which is used for ",
+        "8": " Gun metal is ",
+        "9": "Heaviest naturally occurring element ",
+        "10": "Most poisonous metal ",
+        "11": "Oil of Vitriol ",
+        "12": " CaH2  is an example of ",
+        "13": "Which of the following is weakest Lewis acid?",
+        "14": "Carbon – Carbon bond distance in Diamond",
+        "15": "Second most electronegative element is",
+        "16": "Which of the following is an amphoteric oxide? ",
+        "17": "The oxidation state of ‘S’ in H2SO4 is ",
+        "18": "Which of the following is least reactive? ",
+        "19": "The noble gas was discovered by",
+        "20": "Boyle’s law states that "
+
+    },
+    {
+        "1" : {
+            "a": "Berzellius",
+            "b": "Wohler",
+            "c": "Kolbe",
+            "d": "Berthelot"
+            },
+            "2" : {
+            "a": "Faraday",
+            "b": "Lavoiser",
+            "c": "Pristley",
+            "d": "Rutherford"
+            },
+            "3" : {
+            "a": " SP3",
+            "b": "SP2",
+            "c": "SP",
+            "d": "None"
+            },
+            "4" : {
+            "a": "Electrophilic addition reaction",
+            "b": "Electrophilic substitution Rexn",
+            "c": "Nucleophilic addition reaction",
+            "d": "Nucleophilic addition reaction"
+            },
+            "5" : {
+            "a": "Atomic number",
+            "b": "Atomic Weight",
+            "c": "both a and b",
+            "d": "none"
+            },
+            "6" : {
+            "a": "ZnSO4. 7H2O",
+            "b": "MgSO4. 7H2O",
+            "c": "FeSO4. 7H2O",
+            "d": "CuSO4. 5H2O"
+            },
+            "7" : {
+            "a": "Manufacture of Al",
+            "b": "Manufacture of Ag",
+            "c": "Purification of Ag",
+            "d": "Purification of Mg"
+            },
+            
+            "8" : {
+            "a": "Cu + 2n + Ni",
+            "b": "Cu + Sn + 2n",
+            "c": "Cu + Al",
+            "d": "None"
+            },
+            "9" : {
+            "a": "U 238",
+            "b": "U 235",
+            "c": "Both",
+            "d": "none"
+            },
+            "10" : {
+            "a": "Cesium",
+            "b": "Francium",
+            "c": "Plutonium",
+            "d": "Iron"
+            },
+            "11" : {
+            "a": "Fe2o3",
+            "b": "AgNO3",
+            "c": "HCL",
+            "d": "H2So4"
+            },
+            "12" : {
+            "a": "Saline hydride",
+            "b": "ionic hydride",
+            "c": "Molecular hydrided",
+            "d": "Both a and b"
+            },
+            "13" : {
+            "a": " BI3",
+            "b": "BBr3",
+            "c": "CCl3",
+            "d": "BF3 "
+            },
+            "14" : {
+            "a": "1.54 A",
+            "b": "1.42 A",
+            "c": "1.20 A",
+            "d": "1.00 A"
+            },
+            "15" : {
+            "a": "Flourine",
+            "b": "Nitrogen",
+            "c": "Oxygen",
+            "d": "Chlorine"
+            },
+            "16" : {
+            "a": " Na0O2",
+            "b": "Mgo",
+            "c": "Al2O3 ",
+            "d": "SO2 "
+            },
+            "17" : {
+            "a": "+4",
+            "b": "+2",
+            "c": "+6",
+            "d": "0"
+            },
+            
+            "18" : {
+            "a": "he",
+            "b": "Ne",
+            "c": "Xe",
+            "d": "Ar"
+            },
+            "19" : {
+            "a": " Chadwick",
+            "b": "William Ramsay",
+            "c": "Bohr",
+            "d": "J.J Thomsons "
+            },
+            "20" : {
+            "a": " V α P at constant T ",
+            "b": " V α T at constant P ",
+            "c": "V α 1/p at constant T",
+            "d": " V α 1/T at constant P "
+            }
+    },
+    {
+        "1": "Berzellius",
+        "2": "Lavoiser",
+        "3": "SP",
+        "4": "Electrophilic substitution Rexn",
+        "5": "Atomic number",
+        "6": "ZnSO4. 7H2O",
+        "7": "Purification of Ag",
+        "8": "Cu + Sn + Zn",
+        "9": "U 238",
+        "10": "Plutonium",
+        "11": "H2So4",
+        "12": "Both a and b",
+        "13": "BF3 ",
+        "14": "1.54 A",
+        "15": "Oxygen",
+        "16": "Al2O3",
+        "17": "+6",
+        "18": "he",
+        "19": "William Ramsay",
+        "20": "V α 1/p at constant T"
+
+
+    }
+]

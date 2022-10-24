@@ -1,0 +1,172 @@
+[
+    {
+        "1": " Least count of a stop watch is 0.2 sec the time of 20 oscillations of a pendulum is measured to be 25 sec the max% error in measurement",
+        "2": "The axial vector is  ",
+        "3": "From the top of the tower of height 50m, a ball is thrown vertically upwards, if it hit the ground after 10 sec then velocity of projection of ball is",
+        "4": "A body of mass m falls on the floor with velocity ‘u’ and rebound back at the same velocity. The impulse of force will be",
+        "5": "A thin metal ring of mass 0.5kg and radius 0.1m rolls down an inclined plane of height 1m. The  rotational K.E of the ring of foot of inclined plane is ",
+        "6": "For constant volume gas thermometer, one should fill the gas at ",
+        "7": "The movement of Inertia of a body is I and coefficient of linear expansion is  . The temperature of body increases by ∆θ then moment of inertia changes by ",
+        "8": "The temperature inside and outside the refrigerator are 273K and 303K. The heat delivered to surrounding for every Joule of work done is ",
+        "9": "The temperature of the sun is doubled then heat energy incident on the earth’s surface will increased by factor of ",
+        "10": "In the young’s double slit experiment the angular width of a fringe formed on a distance screen 1  in  = 6000A. What is the spacing between the balls",
+        "11": "A light ray incident normally on a plane mirror suffers a deviation of ",
+        "12": "Convex lens of  focal length 40 cm for red color the focal length for violet  color will be (𝜇v = 1.54 and 𝜇r = 1.52) ",
+        "13": "The magnificence produced by objective eye lens are 12 and 4. Magnificence of microscope is: ",
+        "14": "Velocity of sound waves in air is 330 m/sec. For a particular sound in air, a path differences of 40 cm is equivalent to a phase differences of 1.6 𝜋. The frequency of this wave is ",
+        "15": "Two waves having intensities I and 9I produced Interference. If the resultant intensity at a point is 7I. What is the phase differences between two waves?  ",
+        "16": "A listener moves towards a source of sound emitting notes of frequency f. The apparent frequency heard by the listener will be 20% more than the actual frequency when the listener moves with speed nearly",
+        
+        "17": "The number of electrons contained in one columns of charge is  ",
+        "18": "A charge q is placed at the corner of cube. The electric flow through all the six faces of cube is ",
+        "19": "A parallel plate capacitor has capacitance 5 𝜇𝐹 in air 15 𝜇𝐹 in oil. The dielectric constant of oil is",
+        "20": "An ammeter reads up to 1A. Its internal resistance is 0.81Ω. To increase the range to 10A, the value of shunt required is "
+    },
+    {
+        "1" : {
+            "a": "8%",
+            "b": "1% ",
+            "c": "0.8%",
+            "d": "16%"
+            },
+            "2" : {
+            "a": "Force",
+            "b": "Acceleration",
+            "c": "Linear Momentum",
+            "d": "Torque"
+            },
+            "3" : {
+            "a": "20 m/s",
+            "b": " 40 m/s",
+            "c": " 45 m/s",
+            "d": "90 m/s"
+            },
+            "4" : {
+            "a": "mu",
+            "b": "-mu",
+            "c": "2mu",
+            "d": "2mu/3"
+            },
+            "5" : {
+            "a": " 1.5 J",
+            "b": " 1.9 J",
+            "c": " 2.5 J",
+            "d": " 3.6 J"
+            },
+            "6" : {
+            "a": "high temperature",
+            "b": "high temperature and low pressure",
+            "c": "low temperature and low pressure",
+            "d": "Low temperature and high pressure"
+            },
+            "7" : {
+            "a": "Iα∆θ ",
+            "b": "2Iα∆θ",
+            "c": "4Iα∆θ",
+            "d": "Iα∆θ/2"
+            },
+            
+            
+            "8" : {
+            "a": "1J",
+            "b": "9J",
+            "c": "10J",
+            "d": "15J"
+            },
+            "9" : {
+            "a": "16",
+            "b": "8",
+            "c": "4",
+            "d": "2"
+            },
+            "10" : {
+            "a": "2.44 x 10-5m  ",
+            "b": "3.44 x 10-5m ",
+            "c": "2.9 x 10-6m ",
+            "d": "4 x 10-6m "
+            },
+            "11" : {
+            "a": " zero",
+            "b": "pi / 2",
+            "c": "pi",
+            "d": "2 pi"
+            },
+            "12" : {
+            "a": "39.5 cm",
+            "b": "38.5 cm",
+            "c": "39 cm",
+            "d": "41.5 cm"
+            },
+            "13" : {
+            "a": "3",
+            "b": "8",
+            "c": "16",
+            "d": "48"
+            },
+            "14" : {
+            "a": "150 hz",
+            "b": " 165 hz",
+            "c": " 330 hz",
+            "d": " 660 hz"
+            },
+            "15" : {
+            "a": " 0 degree",
+            "b": "60 degree",
+            "c": "90 degree",
+            "d": " 120 degree"
+            },
+            "16" : {
+            "a": "66m/sec ",
+            "b": "55 m/sec",
+            "c": "33 m/sec",
+            "d": "16.5 m/sec"
+            },
+            "17" : {
+            "a": "1.67 x 10 to the power31  ",
+            "b": "9.31 x 10 ko power 23 ",
+            "c": "6.25* 10 ko power 18",
+            "d": "6.25* 10 ko power 20"
+            },
+            
+            "18" : {
+            "a": " q",
+            "b": "q/6 epsylum not",
+            "c": "q/8 epsylum not",
+            "d": "q/ epsylum not"
+            },
+            "19" : {
+            "a": "1/3",
+            "b": "3",
+            "c": "3/2",
+            "d": "2/3"
+            },
+            "20" : {
+            "a": "0.9Ω  ",
+            "b": "0.09Ω  ",
+            "c": "0.03Ω  ",
+            "d": "0.3Ω  "
+            }
+    },
+    {
+        "1": "0.8%",
+        "2": "Torque",
+        "3": " 45 m/s",
+        "4": "2mu",
+        "5": " 2.5 J",
+        "6": "high temperature and low pressure",
+        "7": "2Iα∆θ",
+        "8": "10J",
+        "9": "16",
+        "10": "3.44 x 10-5m ",
+        "11": "pi",
+        "12": "38.5 cm",
+        "13": "48",
+        "14": " 660 hz",
+        "15": " 120 degree",
+        "16": "16.5 m/sec",
+        "17": "6.25* 10 ko power 18",
+        "18": "q/8 epsylum not",
+        "19": "3",
+        "20": "0.09Ω"
+    }
+]

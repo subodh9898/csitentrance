@@ -1,0 +1,175 @@
+
+
+[
+    {
+    "1": " The order of magnitude of radius of an atom is ",
+    "2": "A projectile goes farthest away from the Earth, when the angle of projection is ",
+    "3": " A simple pendulum when set into vibration comes to rest after sometimes because of ",
+    "4": "Powder clings to the skin because of",
+    "5": "Viscosity is the inherent property of liquids and gases and is more closely related to",
+    "6": "A bridge of steel has length 700m. the temperature varies from 243 K to 313 K. The change in length of the bridge for above seasonal variation in temperature is (steel = 11  10-6/K) ",
+    "7": "The internal energy of a perfect gas does not change during  ",
+    "8": "The efficiency of a steam engine is of the order of  ",
+    "9": " A gas performs maximum work when it expands ",
+    "10": "When two waves overlap the result is larger disturbance means ",
+    "11": "While standing still, an observer measures the frequency of a tuning fork to be 524 Hz. What frequency does he measure as he approaches the fork at 5 m/s? (speed of sound in air = 340 m/s). ",
+    "12": "In longitudinal wave the displacement of the particles of the medium is ",
+    "13": "The illuminance at a distance of 2m from a 100 candela lamp is ",
+    "14": "When light beam is incident on a prism, it causes ",
+    "15": "If critical angle for a material placed in air is 300, the refractive index will be",
+    "16": "A body has 1 C of negative charge. How many excess electrons it has as compased to its neutral state? ",
+    "17": "On heating a liquid, the refractive index generally",
+    "18": "The torque on an electric dipole of moment p when placed in an electric field E is proportional to",
+    "19": "Wheatstone bridge is used to measure",
+    "20": "Magnetism of a magnet "
+    
+        },
+        {
+           
+    "1" : {
+        "a": " 10 to the power -7 m",
+        "b": "10 to the power -10 m",
+        "c": "10 to the power -12 m",
+        "d": "10 to the power -15 m"
+        },
+        "2" : {
+        "a": "0 degrre",
+        "b": "45 degree",
+        "c": " 90 degree  ",
+        "d": " 120 degree"
+        },
+        "3" : {
+        "a": "friction of air",
+        "b": "tension on the thread",
+        "c": " gravity",
+        "d": "its mass"
+        },
+        "4" : {
+        "a": "Compresion",
+        "b": "Cohesion",
+        "c": "Adhesion",
+        "d": "Capilarity"
+        },
+        "5" : {
+        "a": " inertia",
+        "b": " shearing Strain",
+        "c": "Transfer of momentum",
+        "d": " Surface Tension"
+        },
+        "6" : {
+        "a": "15.2 cm",
+        "b": "15.4 nm",
+        "c": "15.8 cm",
+        "d": "10cm"
+        },
+        "7" : {
+        "a": "adiabatic process",
+        "b": "isothermal Process",
+        "c": "Isobaric process",
+        "d": "isochoric process"
+        },
+        
+        "8" : {
+        "a": "10 %",
+        "b": "20%",
+        "c": "60%",
+        "d": "100%"
+        },
+        "9" : {
+        "a": "Isothermally",
+        "b": "Isobarically",
+        "c": "Adiabatically",
+        "d": "isochorically"
+        },
+        "10" : {
+        "a": "The interference is constructive ",
+        "b": "The interference is destructive",
+        "c": "The interference depends of wave",
+        "d": "all of the above"
+        },
+        "11" : {
+        "a": "500 hz",
+        "b": "420 hz",
+        "c": "520 hz",
+        "d": "532 hz"
+        },
+        "12" : {
+        "a": "parallel to web velocity",
+        "b": "antiparllel to wave velocity",
+        "c": "perpendicular to the wave velocity",
+        "d": "parallel or antiparllel to the wave velocity"
+        },
+        "13" : {
+        "a": "10 lux",
+        "b": "15 lux",
+        "c": "25 lux",
+        "d": "100 lux"
+        },
+        "14" : {
+        "a": "lateral shift",
+        "b": "Dispersion only",
+        "c": " Deviation Only",
+        "d": "Dispersion and deviation"
+        },
+        "15" : {
+        "a": "2.0",
+        "b": "0.5",
+        "c": "1.5",
+        "d": "2.5"
+        },
+    
+        "16": {
+        "a": "6.25 * 10 to the power 18",
+        "b": "6.25 * 10 to the power -19",
+        "c": "1.6 * 10 to the power -19",
+        "d": "1.6 * 10 to the power 18"
+        },
+        "17": {
+        "a": "does not change ",
+        "b": "decrease",
+        "c": "increase",
+        "d": "May increase or decrease depending on the rate of heating"
+        },
+        
+        "18": {
+        "a": "P/E",
+        "b": "E/P",
+        "c": "P.E",
+        "d": "PE Tan thita"
+        },
+        "19": {
+        "a": "emf",
+        "b": " potential",
+        "c": "current",
+        "d": "resistance"
+        },
+        "20": {
+        "a": " is zero at absolute zero temperature ",
+        "b": "increases with temperature",
+        "c": "is maximum at curie temperature",
+        "d": "becomes practically zero above curie temperature "
+        }
+        },
+        {
+            "1": "0",
+            "2": "dyne",
+            "3": "answer to unanswered question",
+            "4": "print",
+            "5": "marconi",
+            "6": "all",
+            "7": "homo sapien",
+            "8": "def",
+            "9": "-8",
+            "10": "101",
+            "11": "3232",
+            "12": "101",
+            "13": "9",
+            "14": "3232",
+            "15": "1",
+            "16": "0",
+            "17": "dyne",
+            "18": "answer to unanswered question",
+            "19": "print",
+            "20": "marconi"
+        }
+    ]

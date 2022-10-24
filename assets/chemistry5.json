@@ -1,0 +1,171 @@
+[
+    {
+"1": " This is challenge set of chemistry. You must find answer yourself ",
+"2": "The electronic configuration of chromium is ",
+"3": "The structure of CO2 molecule is ",
+"4": "Which of the following elements has highest electron affinity?",
+"5": "The oxidation number of Fe in the compound Fe3O4 is",
+"6": "MGo is an example of ",
+"7": "Down's process is used for the extraction of ",
+"8": "The IUPAC name of   H3C -- C--CH3  is          ",
+"9": "AL4C3 reacts with water to give ",
+"10": "Protein is polymer of ",
+"11": "Which of the following carbohydrate gives Tollen's test?",
+"12": "DDT is an example of ",
+"13": "Tranquilizers are substances used for the treatment of ",
+"14": "Each carbon atom in benzene is ",
+"15": "Primary, secondary and tertiary alcohols are distinguished by ",
+"16": "The reduction of aldehydes or ketones by amalgamated zinc and concentrated HCl to corresponding alkane is called as",
+"17": "Which of the following compound is most basic?",
+"18": "The molecular formula of white vitriol is ",
+"19": " Cinnabar is an ore of ",
+"20": "The pH of 0.04M HNO3 is "
+
+    },
+    {
+        "1" : {
+            "a": "Challenge Accepted",
+            "b": "Nice Idea",
+            "c": "Dont need your answers",
+            "d": "Good luck"
+            },
+            "2" : {
+            "a": "[Ar] 3d5 4s1  ",
+            "b": "[Ar] 3d6 4s2  ",
+            "c": "[Ar] 3d7 4s2",
+            "d": "[Ar] 3d7 4s2"
+            },
+            "3" : {
+            "a": "linear",
+            "b": "tetrahedral",
+            "c": "angular",
+            "d": "pyramidal"
+            },
+            "4" : {
+            "a": "chlorine",
+            "b": "bromine",
+            "c": "iodine",
+            "d": "flourine"
+            },
+            "5" : {
+            "a": "+4/3",
+            "b": "+2/3",
+            "c": "+5/3",
+            "d": "+8/3"
+            },
+            "6" : {
+            "a": "basic oxide",
+            "b": "amphoteric oxide",
+            "c": "neutral oxide",
+            "d": "acidic oxide"
+            },
+            "7" : {
+            "a": "sodium",
+            "b": "sodium hydrooxide",
+            "c": "sodium carbonate",
+            "d": "ammonia"
+            },
+           
+            "8" : {
+            "a": "2, 2-dimethyl propane",
+            "b": "2-methyl butane ",
+            "c": "2-methyl propane ",
+            "d": "pentane "
+            },
+            "9" : {
+            "a": "CH4",
+            "b": "C2H2",
+            "c": "H2",
+            "d": "C2H4"
+            },
+            "10" : {
+            "a": "glycol",
+            "b": "glucose",
+            "c": "alpha amino acid",
+            "d": "pthalic acid"
+            },
+            "11" : {
+            "a": "glucose",
+            "b": "fructose",
+            "c": "galactose",
+            "d": "maltose"
+            },
+            "12" : {
+            "a": "insecticide",
+            "b": "herbicide",
+            "c": "fungicide",
+            "d": "rodenticide"
+            },
+            "13" : {
+            "a": "cancer",
+            "b": "mental anxiety",
+            "c": "physical disorder",
+            "d": "malaria"
+            },
+            "14" : {
+            "a": "sp2 hybridized",
+            "b": "sp hybridized",
+            "c": "sp3 hybridizred",
+            "d": "sp3d hybridized"
+            },
+            "15" : {
+            "a": "Hoffman's test ",
+            "b": " Fehlings solution",
+            "c": " Victor Meyer's method",
+            "d": " Belisten test"
+            },
+            "16" : {
+            "a": "Clemenssen reduction",
+            "b": "Wolf Kishner reduction",
+            "c": "Cannizaro reaction",
+            "d": "Perkins reaction"
+            },
+            "17" : {
+            "a": "NH3",
+            "b": "CH3NH3",
+            "c": "(CH3)2NH",
+            "d": "(CH3)3N"
+            },
+            
+            "18" : {
+            "a": "ZnSO4 . 7H2O ",
+            "b": "Zn(OH)2 ",
+            "c": "ZnCO3 ",
+            "d": "ZnO"
+            },
+            "19" : {
+            "a": "zinc",
+            "b": "copper",
+            "c": "mercury",
+            "d": "iron"
+            },
+            "20" : {
+            "a": "1.4",
+            "b": "2.0",
+            "c": "3.0",
+            "d": "4.0"
+            }
+    },
+    {
+        "1": "0",
+        "2": "dyne",
+        "3": "answer to unanswered question",
+        "4": "print",
+        "5": "marconi",
+        "6": "all",
+        "7": "homo sapien",
+        "8": "def",
+        "9": "-8",
+        "10": "101",
+        "11": "3232",
+        "12": "101",
+        "13": "9",
+        "14": "3232",
+        "15": "1",
+        "16": "0",
+        "17": "dyne",
+        "18": "answer to unanswered question",
+        "19": "print",
+        "20": "marconi"
+    }
+]

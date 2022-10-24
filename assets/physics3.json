@@ -1,0 +1,179 @@
+[
+    {
+        "1" : "Given vector A= 2i+3j, the angle between A and y-axis is  ",
+    "2" : "A ball is thrown upward and it returns to ground describing a parabolic path. Which of the following remain constant? ",
+    "3" : "A man moves towards a plane mirror with a velocity V in a direction making an angle 𝜃 with the normal to the mirror. The magnitude of velocity of the image relative to man normal to mirror will be  ",
+    "4" : "When a potential difference is applied across a conductor, only the electrons drift and the current flowing is if the positive ions are also drifted, then the current would have been ",
+    "5" : "When a potential difference is applied across a conductor, only the electrons drift and the current flowing is if the positive ions are also drifted, then the current would have been" ,
+    "6" : "An electron revolves about a proton in a second excited state. The angular momentum of electron is" ,
+    "7" : "A bomb is dropped from an aero plane moving horizontally at constant speed. If air resistance is taken into consideration, then the bomb. ",
+    "8" : "The third overtone of a closed organ pipe is equal to second harmonic of an open pipe. Then the ratio of their lengths is equal to"  ,
+    "9" : "A light wave is incident normally over a single slit of width 24× 10-5   cm. The angular position of second are fringe from the central maxima is 30°. ",
+    "10" : "The velocity of an electron in the first orbit of H – atom is V. The  velocity  of an electron  in the    2nd orbit of He+ is  ",
+    "11" : "A radioactive is to open has a half of 2 year .How long it will take the activity to reduce to 3% of its original value? ",
+    "12" : "The  power  disappointed in an AC  circuit is Zero  if the circuit is  ",
+    "13" : "The only elastic modulus that applies to fluid is",
+    "14" : "A resistor of resistive R is connected to an ideal battery. If the value of R is decreased, the power in the resistor will be ",
+
+    "15" : "An n-type semi-conductor is",
+    
+    "16" : " To send 10% of the main current through a moving coil galvanometer of resistance 99 ohm. The shunt required is", 
+    "17" : "40 ohm electric heater is connected to a 200V, 50HZ main supply. The peak value of electric current flowing in the circuit is approximate." , 
+    "18" : " An ion for which the charge per unit mass is 4.4 × 107 c/kg has velocity 3.5 × 105 m/sec and moves in a circular path in a magnetic field 0.4T. The radius of circular path is.", 
+    "19" :  " A monochromatic source of light operating at 200W emits is 4 × 1020 photons per second, the wavelength of light is ", 
+    "20" : " The time period in initial state is eight times the period in final state. The ratio of the energy level is", 
+    "21" : "The current gain alpha of a transistor is 0.95. The change in emitter current is 10 mA. The change in base current is"
+    
+
+
+        
+
+    },
+    {
+        "1" : {
+        "a" :" Tan-1(3/2)",
+        "b" : "Tan-1(2/3)",
+        "c" : "sin-1(2/3)",
+        "d" : " cos-1(2/3)"
+        },
+            "2" : {
+        "a" :"Kinetic energy of ball"   ,
+        "b" :" speed of the ball    "   ,
+        "c" :"Horizontal component of velocity  " ,
+        "d" :" Vertical components of velocity "
+        },
+            "3" : {     
+            "a" : "2V",    
+            "b" : " 2Vcos 𝜃   ", 
+            "c" : "2Vsin 𝜃   ",     
+            "d" : " "
+        },
+            "4" : {       
+            "a" : "Zero ",
+            "b" : "1",
+            "c" : "less than 1",
+            "d" : "greater than 1"
+        },
+            "5" : { 
+            "a" : "greater when switched on   ",
+            "b" : "greater when switched of or switched  ",
+            "c" : " greater when switched off  ",
+            "d" : " smaller when switched on "
+        },
+            "6" : { 
+            "a" : " h/ 2𝜋 ",
+            "b" : " 2h /2𝜋",
+            "c" : " 3h/ 2𝜋 ",
+            "d" : " Zero"
+        },
+            "7" : { 
+            "a" : " Falls on the earth exactly below the aero plane.",
+            "b" : " Falls on the earth behind the aero plane.",
+            "c" : " Falls on the earth ahead of aero plane",
+            "d" : " Falls with aero plane"
+        },
+            "8" : { 
+            "a" : " 7/ 4 ",
+            "b" : " 3 /5 ",
+            "c" : " 3/ 2 ",
+            "d" : " 7/ 6"
+        },
+            "9" : { 
+            "a" : " 6000𝐴̇",
+            "b" : " 5000𝐴̇",
+            "c" : " 3000𝐴̇",
+            "d" : " 1500𝐴̇"
+        },
+            "10" : { 
+            "a" : " 2V",
+            "b" : " V",
+            "c" : " 𝑉/ 2 ",
+            "d" : " 𝑉/ 4"
+         },
+            "11" : {
+            "a" : " 4-8yr",
+            "b" : " 7yr ",
+            "c" : " 10yr",
+            "d" : " 9.6yr "
+        },
+            "12" : {
+            "a" : " 40cm from the open end",
+            "b" : " 60cm from the open end",
+            "c" : " 80cm from the open end",
+            "d" : " 90cm from the open end"
+        },
+            "13" : { 
+            "a" : " purely resistive",
+            "b" : " purely inductive only ",
+            "c" : " either purely inductive or purely ",
+            "d" : " LCR circuit"
+        },
+            "14" : { 
+            "a" : " Young’s modulus",
+            "b" : " shear modulus",
+            "c" : " modulus of rigidity",
+            "d" : " Bulk modulus"
+         },
+            "15" : { 
+            "a" : " The medium between the places ",
+            "b" : " the size of the plates",
+            "c" : " the charge on the plates",
+            "d" : " the separation between plates"
+        },
+
+    "16" : { 
+        "a" : " 9.9 ohm",
+        "b" : "100 ohm ",
+        "c" : " 11 ohm ",
+        "d" : " 19 ohm "
+    },
+        "17" : {
+        "a" :  " 2.5 A",
+        "b" :  " 5.0 A",
+        "c" :  " 7A ",
+        "d" : " 10A"
+     },
+        "18" : {
+        "a" :  " 1 cm ",
+        "b" : " 2cm",
+        "c" :  " 3cm ",
+        "d" : " 4cm"
+    },
+        "19" : {
+        "a" :  " 400 nm ",
+        "b" : " 200 nm ",
+        "c" : "  4 × 10−10 nm",
+        "d" :  " none "
+    },
+        "20" : { 
+        "a" : " 1:2",
+        "b" :  " 1:3 ",
+        "c" : " 2:1 ",
+        "d" : " 4:3"
+     }
+        
+    },
+    {
+        "1" : "Tan-1(2/3)",
+        "2" : "Horizontal component of velocity  " ,
+        "3" : " 2Vcos 𝜃   ", 
+        "4" : "greater than 1",
+        "5" : "greater when switched on   ",
+        "6" : " 3ℎ/ 2𝜋 ",
+        "7" : " Falls with aero plane",
+        "8" : " 7/ 4 ",
+        "9" : " 6000𝐴̇",
+        "10" : " V",
+        "11" : " 10yr",
+        "12" : " 60cm from the open end",
+        "13" : " either purely inductive or purely ",
+        "14" : " Bulk modulus",
+        "15" : " the charge on the plates",
+        "16" : " 11 ohm ",
+    "17" : " 7A ",
+    "18" : " 2cm",
+    "19" : " 400 nm ",
+    "20" : " 2:1 "
+    
+    }
+]

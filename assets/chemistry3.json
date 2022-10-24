@@ -1,0 +1,171 @@
+[
+    {
+"1": "The number of moles present in 90 g of water is ",
+"2": " 1.0 g of HCl reacts with 1.0 g of CaCO3 , the volume of CO2 produced at NTP would be equal to ",
+"3": "Magnetic quantum number specifies ",
+"4": "A cooking gas cylinder can withstand a pressure of 20 atmosphere. At 27 C the pressure of the containing gas is 10 atmosphere. On raising the temperature, the cylinder will burst when the temperature exceeds",
+"5": " Which of the following methods of expressing concentration is independent of temperature ",
+"6": "An aqueous solution of Na2C03 would be   ",
+"7": "Which one of the following is not a Lewis base?   ",
+"8": "In alkaline condition KMnO4 reacts as follow  2KMnO4 + 2KOH   2K2 MnO4 + H2O + O, the Eq. wt. of KMnO4 is ",
+"9": "The molecular geometry of which compound cannot be predicted by the application of VSEPR theory. ",
+"10": "Which of the following is an amphoteric oxide ",
+"11": "Ammonia is manufactured by the use of ",
+"12": "Dry ice is   ",
+"13": "Number of atoms in one molecule of sulfur is ",
+"14": "Which of the following noble gas is not present in atmosphere?   ",
+"15": "Chalcopyrite is an ore of ",
+"16": "The substance used as flux in the extraction of iron from haematite in blast furnace is ",
+"17": "The formula of bleaching powder is   ",
+"18": "The members of a homologous series have   ",
+"19": "Which of the following reagent cannot be used to distinguish between acetaldehyde and acetone ",
+"20": "Reduction of nitrobenzene in acidic medium gives "
+
+    },
+    {
+        "1" : {
+            "a": "1.0 ",
+            "b": "90.0 ",
+            "c": " 5.0 ",
+            "d": "9.0   "
+            },
+            "2" : {
+            "a": "1.0 liters ",
+            "b": " 0.224 liters ",
+            "c": "2.24 liters ",
+            "d": "22.4 liters "
+            },
+            "3" : {
+            "a": " Orientation of orbitals ",
+            "b": "size of orbitals ",
+            "c": " shape of orbitals ",
+            "d": "magnetic properties of orbitals "
+            },
+            "4" : {
+            "a": " 273° C ",
+            "b": " 327° C ",
+            "c": "300° C ",
+            "d": "127° C "
+            },
+            "5" : {
+            "a": " Molality ",
+            "b": " Molarity ",
+            "c": "Normality",
+            "d": "Grams per liter "
+            },
+            "6" : {
+            "a": "Acidic ",
+            "b": " basic ",
+            "c": " neutral ",
+            "d": "either acidic or basic "
+            },
+            "7" : {
+            "a": " H20 ",
+            "b": " NH3 ",
+            "c": "OH−1   ",
+            "d": " BF3 "
+            },
+           
+            "8" : {
+            "a": " M/1 ",
+            "b": " M/2 ",
+            "c": " M/5 ",
+            "d": " M/6   "
+            },
+            "9" : {
+            "a": "CH4 ",
+            "b": " PCl5   ",
+            "c": " SF6 ",
+            "d": " MgCl2 "
+            },
+            "10" : {
+            "a": "ZnO",
+            "b": " MgO ",
+            "c": " SiO2 ",
+            "d": " H2O "
+            },
+            "11" : {
+            "a": "Down's Process ",
+            "b": " Solroy's Process ",
+            "c": " Haber's Process ",
+            "d": " Ostwald's Process "
+            },
+            "12" : {
+            "a": "Ice which is dried by treating with dehydrating agent ",
+            "b": "ice which is super cooled   ",
+            "c": " Solid CO2 ",
+            "d": "ice mixed with some organic solvents "
+            },
+            "13" : {
+            "a": " 8 ",
+            "b": " 4 ",
+            "c": " 2 ",
+            "d": " 1   "
+            },
+            "14" : {
+            "a": "He ",
+            "b": " Ar ",
+            "c": " Ne ",
+            "d": " Rn "
+            },
+            "15" : {
+            "a": " Fe ",
+            "b": " Cu ",
+            "c": "Zn   ",
+            "d": " Hg   "
+            },
+            "16" : {
+            "a": " Calcium phosphate ",
+            "b": " Silica ",
+            "c": " Limestone ",
+            "d": " Calcium silicate "
+            },
+            "17" : {
+            "a": " Ca(OCl)Cl ",
+            "b": " CaSO4.2H2O ",
+            "c": "2CaSO4.H2O ",
+            "d": " MgSO4.7H2O "
+            },
+            
+            "18" : {
+            "a": "different general formula   ",
+            "b": " different molecular weight ",
+            "c": "different chemical properties ",
+            "d": " different method of preparation "
+            },
+            "19" : {
+            "a": " Tollen's reagent ",
+            "b": " Fehling's solution ",
+            "c": " Schiff s reagent ",
+            "d": " Br2 in CCl4 "
+            },
+            "20" : {
+            "a": " aniline   ",
+            "b": " azoxybenzene ",
+            "c": " azobenzene ",
+            "d": " hydrazobenzene "
+            }
+    },
+    {
+        "1": " 5.0 ",
+        "2": " 0.224 liters ",
+        "3": " Orientation of orbitals ",
+        "4": " 327° C ",
+        "5": " Molality ",
+        "6": " basic ",
+        "7": " BF3 ",
+        "8": " M/1 ",
+        "9": " MgCl2 ",
+        "10": " SiO2 ",
+        "11": " Haber's Process ",
+        "12": " Solid CO2 ",
+        "13": " 8 ",
+        "14": " Rn ",
+        "15": " Cu ",
+        "16": " Limestone ",
+        "17": " Ca(OCl)Cl ",
+        "18": " different molecular weight ",
+        "19": " Br2 in CCl4 ",
+        "20": " aniline "
+    }
+]

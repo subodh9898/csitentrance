@@ -1,0 +1,176 @@
+[
+    {
+    "1" : " An airplane is moving in a circular path with speed 200 km/hr. The change in velocity in half revolution is ",
+    "2" : " A smooth inclined plane is inclined at an angle θ with horizontal. A body starts from rest and sliding down the inclined plane, the time taken by body to reach the bottom is ", 
+    "3" : " A ball is thrown at angle 30° above horizontal from top of the tower with 10m/s. The ball hit the ground at 17.3 m from foot of tower then height of tower is a", 
+    "4" : " A tachometer is device used to measure the", 
+    "5" : " A body is in SHM of time T. The time taken by it to move from extreme position to half of amplitude is", 
+    "6" : " On heating liquid of cubical expansion α in a container having linear expansivity the level of liquid in container will be ",
+    "7" : " The total translational K-E of 5 moles of gas at 127℃ is", 
+    "8" : " The pressure and density of diatomic gas changes adiabatically from (p,d) to (p’ ,32d) then value of p′/ p is ", 
+    "9" : " If the temperature of a perfectly black body increased by 25% then the emittance of a body increased by", 
+    "10" : " When viewed a white light shop bubbles shows colors because of", 
+    "11" : " An object is initially at a distance of 100 cm from a plane mirror. If the mirror approaches the object at a speed of 5cm/sec, then after 6 s the distance between the object and its image will be", 
+    "12" : " A convex lens of focal length 12cm is made of glass of μg = 3/2. The focal length in liquid of refractive index μl = 5/4 is", 
+    "13" : " A lamp is hanging along the axis of circular table of radius R. At what height should the lamp be placed above the table so that illuminance at edge of table is 1/8 of center?", 
+    "14" : " For a stationary wave y = 45m . Cos 96πt (x and y in cm). Find the distance between node and next antinode.",
+    "15" : " There are three sources of sound of equal intensities with frequency 200, 201, 202 vibrations /sec. The number of beat per second", 
+    "16" :  " A beam of sound is 106 times as intense as that with minimum audible intensity. The intensity of the beam is then", 
+    "17" : " When 1014 electrons are removed from a neutral metal sphere, the change on the sphere becomes", 
+    "18" : " The ratio by which a charge q should be divided so that they experience maximum force for a given separation is", 
+    "19" : " The resistance of a wire is r ohm. The wire is stretched to double its length. Now the resistance of wire in ohm is", 
+    "20" : " To send 10% of the main current through a moving coil galvanometer of resistance 99 ohm. The shunt required is"
+
+        
+
+    },
+    {
+        "1" : { 
+            "a" : " 0",
+            "b" :  " 400 km/hr",
+            "c" :  " 200 km/hr ",
+            "d" : " 200√2 km/hr"
+         },
+            "2" : { 
+            "a" : "option not supported ",
+            "b" : " G",
+            "c" : " option unavailable     ",
+            "d" : " Sin θ  "
+        },
+            "3" : {
+            "a" : "  110m ",
+            "b" : " 100m ",
+            "c" : " 10m",
+            "d" : "  12m "
+         },
+            "4" : { 
+            "a" : "Tension on string",
+            "b" : "surface Tension ",
+            "c" : " speed of rotation ",
+            "d" : " centripetal force "
+        },
+            "5" : {
+            "a" : "T/ 2 ",
+            "b" : " T/ 4",
+            "c" : ". T/ 6 ",
+            "d" : ". T/ 12"
+         },
+            "6" : {
+            "a" : " Rise ",
+            "b" : " fal",
+            "c" : "  will remain almost stationary",
+            "d" : " none "
+        },
+            "7" : {
+            "a" : "1.2 × 104 J",
+            "b" : " 2.49×104 J",
+            "c" : " 5×104 J ",
+            "d" : " 10 ×104 J "
+         },
+            "8" : {
+            "a" :  "  1/ 128",
+            "b" :  " 2/ 64 ",
+            "c" : " 64 ",
+            "d" : "128"
+         },
+            "9" : {
+            "a" :  " 50%",
+            "b" :  " 100%",
+            "c" :  " 144% ",
+            "d" : " 198%"
+         },
+            "10" : { 
+            "a" : " Interference",
+            "b" :  " diffraction ",
+            "c" : " scattering ",
+            "d" : " dispersion "
+        },
+            "11" : { 
+            "a" : " 60 cm ",
+            "b" : " 140 cm",
+            "c" :  " 170 cm ",
+            "d" : " 150 cm. "
+        },
+            "12" : { 
+            "a" : " 6 cm ",
+            "b" : " 12cm",
+            "c" :  " 24cm ",
+            "d" : " 30cm"
+         },
+            "13" : {
+            "a" :  " Surprise ",
+            "b" : " Please ",
+            "c" :  " solve  ",
+            "d" : " yourself "
+        },
+            "14" : {
+            "a" : " 6cm",
+            "b" :  " 7.5cm ",
+            "c" : " 9.5cm ",
+            "d" : " 4cm "
+        },
+            "15" : { 
+            "a" : " 0",
+            "b" :  " 1 ",
+            "c" : " 2 ",
+            "d" : " 3"
+        },
+            "16" : { 
+            "a" : " 106 db",
+            "b" :  " 6 db",
+            "c" :  " 60 db ",
+            "d" : " 0.6 db"
+         },
+            "17" : {
+            "a" :  " 16μc ",
+            "b" : " -16 μc",
+            "c" :  " 32 μc ",
+            "d" : " -32 μc"
+         },
+            "18" : {
+            "a" :  " 1:1 ",
+            "b" : " 1:2 ",
+            "c" : " 1:4 ",
+            "d" : " 12:3"
+         },
+            "19" : {
+            "a" :  " r 2",
+            "b" :  " 4r ",
+            "c" : " 2r ",
+            "d" : " r 4"
+         },
+            "20" : { 
+            "a" : " 9.9 ohm",
+            "b" : "100 ohm ",
+            "c" : " 11 ohm ",
+            "d" : " 19 ohm "
+        }
+            
+    },
+    {
+        "1" : " 400 km/hr",
+        "2" : "      ",
+        "3" : " 10m",
+        "4" : " speed of rotation ",
+        "5" : ". T/ 6 ",
+        "6" : "  will remain almost stationary",
+        "7" : " 2.49×104 J",
+        "8" : "128",
+        "9" : " 144% ",
+        "10" : " Interference",
+        "11" : " 140 cm",
+        "12" : " 30cm",
+        "13" : "  ",
+        "14" : " 7.5cm ",
+        "15" : " 1 ",
+        "16" : " 60 db ",
+        "17" : " 16μc ",
+        "18" : " 1:1 ",
+        "19" : " 4r ",
+        "20" : " 11 ohm "
+    }
+]
+
+
+
+

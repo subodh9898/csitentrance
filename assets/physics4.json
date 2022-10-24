@@ -1,0 +1,171 @@
+[
+    {
+"1": "The SI unit of electric flux is ",
+"2": "The condition for → A + → B=→ A−→ Bis ",
+"3": "A bomb of 12 kg explodes into two pieces of masses 4 kg and 8 kg .The velocity of 8 kg mass is 6 m/s , the K.E of other mass is",
+"4": "A body of mass 2kg is attached to one end of string of length 1 m and rotated in vertical circle such that velocity at highest point is 4 m/s. Here tension is ",
+"5": "Two planets have radii r1𝑎nd r2 and densities d1𝑎nd d2 respectively. The ratio of the acceleration due to gravity on them will be ",
+"6": "A liquid with coefficient of volumes expansion  γ(Gama) is filled in a container with coefficient of linear expansion  α(alpha) . If the liquid overflows on heating then ",
+"7": "Specific heat of the substance under adiabatic condition is ",
+"8": "Two rods of a same length and diameter having thermal conductivities 2 and 3 units respectively are joined in series .The equivalent thermal conductivity is. ",
+"9": "The direction of flow of heat is unidirectional i.e. always from hotter to colder body. This is best explained by ",
+"10": "The increase in the velocity of sound for 1℃ rise for temperature is ",
+"11": "If oil of density higher than water is filled in place of water in a resonance tube, its frequency will ",
+"12": "When both source and observer approach each other with a velocity equal to half of the velocity of sound, then change in frequency of sound as detected by the listener is ",
+"13": "A diver in water at a depth 1m sees the whole outside with horizontal circle of radius …….when the refractive index is μ : ",
+"14": "The power produced by a prism of small angle A ",
+"15": "A prism of angle 11.25°, dispersive power 0.21 and refractive index 1.52 to form an achromatic combination of prism of angle 4.2° , dispersive power 0.045 and refractive index 1.265 .then the resultant deviation  is",
+"16": "A red postage stamp is viewed in yellow light .It appears  ",
+"17": "Divergence of gold leaf is used to study ",
+"18": "The force between two charges in air is 10N, on inserting dielectric, the force becomes 4N. then dielectric constant of medium is",
+"19": " If potential of one small drop is V0 and n such identical drops collapse together then final potential of large drop is",
+"20": "Two capacitors C and 2C are connected in parallel and charged with V Volt each. Battery is disconnected and then a dielectric of constant K is inserted is C. find the final potential of each capacitor "
+
+    },
+    {
+        "1" : {
+            "a": " N c2 ",
+            "b": " Nm c  ",
+            "c": "N−m2 c",
+            "d": " c N−m"
+            },
+            "2" : {
+            "a": " → B = 0 ",
+            "b": "→ B is a unit vector ",
+            "c": "→ A =→ B",
+            "d": "→ A= 0 "
+            },
+            "3" : {
+            "a": " 48 J ",
+            "b": " 32 J ",
+            "c": "24 J ",
+            "d": "288 J "
+            },
+            "4" : {
+            "a": " 18 N ",
+            "b": " 12 N ",
+            "c": " 45 N ",
+            "d": "0 N "
+            },
+            "5" : {
+            "a": " r1d2:r2d1",
+            "b": " r1d1:r2d2",
+            "c": " r 1 2d1:r2 2d2",
+            "d": "r1d1 2:r2d2 2 "
+            },
+            "6" : {
+            "a": "γ = 3α ",
+            "b": " γ > 3α ",
+            "c": " γ < 3α ",
+            "d": "γ > 3α^3 "
+            },
+            "7" : {
+            "a": "zero",
+            "b": " infinite ",
+            "c": " one ",
+            "d": "cannot be "
+            },
+            
+            "8" : {
+            "a": " 1.0 ",
+            "b": " 2.0 ",
+            "c": "3.0 ",
+            "d": "none "
+            },
+            "9" : {
+            "a": " 1st Law of thermodynamics ",
+            "b": " 2nd law of thermodynamics  ",
+            "c": " Law of conservation of energy ",
+            "d": " none "
+            },
+            "10" : {
+            "a": " 0.16 m/s ",
+            "b": "0.61 m/s ",
+            "c": " 0.1 m/s ",
+            "d": " 61 m/s "
+            },
+            "11" : {
+            "a": " increase ",
+            "b": "decrease ",
+            "c": " remains unchanged ",
+            "d": "Depend on the density of material of the "
+            },
+            "12" : {
+            "a": " 0 ",
+            "b": " 200% ",
+            "c": " 50 % ",
+            "d": "150 % "
+            },
+            "13" : {
+            "a": " 1 μ−1",
+            "b": " 1 √ μ2−1",
+            "c": " μ √ μ2−1",
+            "d": "1 μ"
+            },
+            "14" : {
+            "a": " depends on material of prism only ",
+            "b": " depends on A only ",
+            "c": " depends both on material and A ",
+            "d": "depends neither on material nor on A "
+            },
+            "15" : {
+            "a": " 1.62 ",
+            "b": " 4.73 ",
+            "c": " 5.85 ",
+            "d": " 8.58 "
+            },
+            "16" : {
+            "a": " light grey ",
+            "b": " orange ",
+            "c": " black ",
+            "d": " green "
+            },
+            "17" : {
+            "a": " Charge ",
+            "b": " potential ",
+            "c": " energy ",
+            "d": " none "
+            },
+            
+            "18" : {
+            "a": " 2.5 ",
+            "b": " 0.5 ",
+            "c": " 2 ",
+            "d": "4"
+            },
+            "19" : {
+            "a": " V = n1 3 V0 ",
+            "b": "V = n2 3 V0",
+            "c": "V = V 𝑜 ",
+            "d": "V = n5 3 V0 "
+            },
+            "20" : {
+            "a": "3V K+2",
+            "b": "V/K",
+            "c": "KV",
+            "d": "none "
+            }
+    },
+    {
+        "1": "N−m2 c",
+        "2": " → B = 0 ",
+        "3": "288 J ",
+        "4": " 12 N ",
+        "5": " r1d1:r2d2 ",
+        "6": " γ > 3α ",
+        "7": "zero",
+        "8": "none ",
+        "9": " 2nd law of thermodynamics ",
+        "10": "0.61 m/s ",
+        "11": " remains unchanged ",
+        "12": " 200% ",
+        "13": " 1 √ μ2−1 ",
+        "14": " depends on material of prism only ",
+        "15": " 4.73 ",
+        "16": " black ",
+        "17": " Charge ",
+        "18": " 2.5 ",
+        "19": "V = n2 3 V0",
+        "20": "3V K+2"
+    }
+]

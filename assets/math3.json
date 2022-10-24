@@ -1,0 +1,172 @@
+[
+    {
+"1": "Two sets A= {1, 2, 3} and 𝐵 = {x:x3 − 6x2 + 11x − 6 = 0} are: ",
+"2": "The domain of the function y=√9 − x2 are: ",
+"3": "The polar co-ordinates of the point x = − √3 and y = 1 are ",
+"4": "The roots of the equation (q − r)x2 + (r − p)x + (p − q) = 0  are: ",
+"5": "The absolute minimum value of the function y = x2 − 3x on the interval [0,2] is : ",
+"6": "The product of imaginary cube roots of unity is ",
+"7": "The differential coefficient of sinx with respect to cos x is ",
+"8": " The value of ∫𝑒tan−1x (1+x2)𝑑x =",
+"9": "Solution of the equation ∫ √x + 1  dx = 3dx is ",
+"10": "∫ e to the power x ( x−1 x2) to the power 2   𝑑x = ",
+"11": "If 𝑓(x) = x3 − 1  and 𝑔(x) = (2x − 3), then the value of the function (𝑓−1𝑜𝑔)(2) = ",
+"12": "If [ 1 x + 3 2x + 1 x − 1 ] is symmetric, then x = ",
+"13": "The area bounded by the curve y = f(x) = x2 − 5x + 4  with   x − ax𝑖𝑠  is ",
+"14": " If Z1 = 4[cos 50 + isin50] and Z2 = 2[Cos40 + iSin40] , then |Z1Z2| = ",
+"15": "If cos−1 x + cos−1 y = 𝜋 2 , then ",
+"16": "If (1 + tanθ)(1 + tan𝜙) = 2, then the value of θ + 𝜙 = ",
+"17": " The value of cosA a+cosB b+cosc c is",
+"18": "lim x→0 (1−cos3x)3 x2(square) = ",
+"19": "The third term of a G.P is the square of first term .If the second term is 8, then the 6 th term is: ",
+"20": "If √x + √y = 4, then 𝑑y/𝑑x at y = 1 is  "
+
+    },
+    {
+        "1" : {
+            "a": " Disjoint sets ",
+            "b": " proper sets ",
+            "c": "equal sets",
+            "d": "complement of each other. "
+            },
+            "2" : {
+            "a": " {0 ≤ x ≤ 3} ",
+            "b": "{−3 ≤ x ≤ 3}",
+            "c": "{−1 ≤ x ≤ 1} ",
+            "d": "{−3 ≤ x ≤ 0} "
+            },
+            "3" : {
+            "a": " r = 1,θ = 30° ",
+            "b": "r = 2,θ = 150°",
+            "c": " r = 1,θ = 150",
+            "d": " r = 2,θ = 30° "
+            },
+            "4" : {
+            "a": " r−p q−r,1 ",
+            "b": "p−q q−r,1",
+            "c": "q-r/p-q,1",
+            "d": " r−p p−q,1 "
+            },
+            "5" : {
+            "a": " 0 ",
+            "b": " −5 4",
+            "c": "3/2",
+            "d": "−9/4"
+            },
+            "6" : {
+            "a": " 0 ",
+            "b": "1 + w + w2 ",
+            "c": "1",
+            "d": " i "
+            },
+            "7" : {
+            "a": "2tanx",
+            "b": "–cotx",
+            "c": "2cotx.cosecx",
+            "d": "cosxsinx"
+            },
+            
+            "8" : {
+            "a": " log(1 + x2) + 𝑐 ",
+            "b": "𝑙𝑜𝑔 𝑒(tan−1 x) + 𝑐 ",
+            "c": " 𝑒tan−1 x + 𝑐 ",
+            "d": "tan1 x . 𝑒(tan−1 x) + 𝑐 "
+            },
+            "9" : {
+            "a": " 0 ",
+            "b": " 1 ",
+            "c": " 2 ",
+            "d": "3 "
+            },
+            "10" : {
+            "a": "𝑒2/2+ 𝑒 ",
+            "b": "𝑒2 + 𝑒 + 1 ",
+            "c": "𝑒2/2− 𝑒 ",
+            "d": "(𝑒+1)^2/2"
+            },
+            "11" : {
+            "a": " 2^(1/3) ⁄ − 1 ",
+            "b": "7",
+            "c": "3^(1/2)",
+            "d": "2^(1/3)"
+            },
+            "12" : {
+            "a": " 5 ",
+            "b": " 7 ",
+            "c": " 3 ",
+            "d": "2 "
+            },
+            "13" : {
+            "a": " 5/2",
+            "b": "7/2",
+            "c": "9/2",
+            "d": "11/3"
+            },
+            "14" : {
+            "a": " 8𝑖 ",
+            "b": "2𝑖",
+            "c": " 8 ",
+            "d": " 4 "
+            },
+            "15" : {
+            "a": " x^2 + y^2 = 1 ",
+            "b": " x^2 + y^2 = −1 ",
+            "c": "x^2 − y^2 = 1 ",
+            "d": "x^2 + y^2 = 0 "
+            },
+            "16" : {
+            "a": "30𝑜",
+            "b": "45𝑜",
+            "c": "60𝑜 ",
+            "d": "75𝑜 "
+            },
+            "17" : {
+            "a": "a + b + c",
+            "b": "(a2+b2+𝑐2)/2ab𝑐",
+            "c": "(a2−b2−𝑐)/2ab𝑐",
+            "d": "a2 + b2 + 𝑐2 "
+            },
+            
+            "18" : {
+            "a": " 2/3",
+            "b": "1/3",
+            "c": "3/2",
+            "d": "0"
+            },
+            "19" : {
+            "a": "120",
+            "b": "124",
+            "c": " 128",
+            "d": "132"
+            },
+            "20" : {
+            "a": "-1",
+            "b": "−1/3",
+            "c": "-3",
+            "d": "2"
+            }
+    },
+    {
+        "1": "equal sets",
+        "2": "{−3 ≤ x ≤ 3}",
+        "3": "r = 2,θ = 150°",
+        "4": "p−q q−r,1",
+        "5": "−9/4",
+        "6": "1",
+        "7": "–cotx",
+        "8": "etan−1 x + c",
+        "9": "3",
+        "10": "e^2/2−e",
+        "11": "2^(1/3)",
+        "12": "2 ",
+        "13": "9/2",
+        "14": "8",
+        "15": "x^2+y^2=1",
+        "16": "45𝑜",
+        "17": "(a2+b2+𝑐2)/2ab𝑐",
+        "18": "3/2",
+        "19": "128",
+        "20": "−1/3"
+
+    }
+]
